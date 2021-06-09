@@ -1,0 +1,16 @@
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/bin/Debug/net5.0/Projeto de Vendas
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/bin/Debug/net5.0/Projeto de Vendas.deps.json
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/bin/Debug/net5.0/Projeto de Vendas.runtimeconfig.json
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/bin/Debug/net5.0/Projeto de Vendas.runtimeconfig.dev.json
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/bin/Debug/net5.0/Projeto de Vendas.dll
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/bin/Debug/net5.0/ref/Projeto de Vendas.dll
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/bin/Debug/net5.0/Projeto de Vendas.pdb
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/obj/Debug/net5.0/Projeto de Vendas.csproj.AssemblyReference.cache
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/obj/Debug/net5.0/Projeto de Vendas.GeneratedMSBuildEditorConfig.editorconfig
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/obj/Debug/net5.0/Projeto de Vendas.AssemblyInfoInputs.cache
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/obj/Debug/net5.0/Projeto de Vendas.AssemblyInfo.cs
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/obj/Debug/net5.0/Projeto de Vendas.csproj.CoreCompileInputs.cache
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/obj/Debug/net5.0/Projeto de Vendas.dll
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/obj/Debug/net5.0/ref/Projeto de Vendas.dll
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/obj/Debug/net5.0/Projeto de Vendas.pdb
+/home/default/Área de Trabalho/Gabriel/Study/Scripts/Scripts C#/Projeto de Vendas/obj/Debug/net5.0/Projeto de Vendas.genruntimeconfig.cache
